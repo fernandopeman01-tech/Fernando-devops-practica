@@ -1,6 +1,6 @@
-\## Práctica 2.1
+## Práctica 2.1
 
-\## Fernando
+## Fernando
 
-\## Práctica2.1
+## Práctica2.1
 
